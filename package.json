@@ -1,0 +1,27 @@
+{
+  "name": "cordova-plugin-image-resizer",
+  "version": "0.1.1",
+  "description": "Cordova Image Resizing Plugin",
+  "cordova": {
+    "id": "cordova-plugin-image-resizer",
+    "platforms": [
+      "android",
+      "ios"
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ezprints/cordova-plugin-image-resizer"
+  },
+  "keywords": [
+    "cordova",
+    "image",
+    "resize",
+    "cordova-android",
+    "cordova-ios"
+  ],
+  "peerDependencies": {
+    "cordova-plugin-camera": ">=1.2"
+  },
+  "author": "Protonet GmbH"
+}
