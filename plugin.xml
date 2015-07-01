@@ -12,6 +12,8 @@
     <clobbers target="ImageResizer" />
   </js-module>
 
+  <dependency id="cordova-plugin-camera" version=">=1.2" />
+  
   <!-- android -->
   <platform name="android">
     <config-file target="res/xml/config.xml" parent="/*">
